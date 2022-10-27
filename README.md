@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on .NET 6, Angular, Azure Cognitive Service
 - 🌱 I’m currently learning RxJS, Data Structure & Algorithms
 - 💬 Ask me about Angular, ASP.NET Core, C#, Firebase, Blogging
-- 📫 How to reach me: [@sk5202][twitter]
+- 📫 How to reach me: [@sk_5202][twitter]
 
 ## 🤝 Connect with me:
 
@@ -63,7 +63,7 @@ Thank you for your support!
 
 [website]: https://www.linkedin.com/in/smitenkalathiya/
 [facebook]: https://www.facebook.com/sk.jayswaminarayan
-[twitter]: https://twitter.com/sk5202
+[twitter]: https://twitter.com/sk_5202
 [linkedin]: https://www.linkedin.com/in/smitenkalathiya/
 [medium]: https://medium.com/@sk5202
 [freecodecamp]: https://www.freecodecamp.org/news/author/
